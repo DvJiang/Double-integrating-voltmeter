@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : ds1.dra                                       )
+(    Software Version : 17.2S049                                      )
+(    Date/Time        : Sun Jun 26 23:56:26 2022                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/BZZ/Work/CAD
+    Name      = ds1.psm
+    User      = Administrator
+    Machine   = CDJD-01
+
+
+Create symbol started.
+ 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+

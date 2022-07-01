@@ -1,0 +1,20 @@
+\t (00:00:02) allegro 17.2 S049 Windows SPB 64-bit Edition
+\t (00:00:02)     Journal start - Fri Jul 01 17:55:00 2022
+\t (00:00:02)         Host=CDJD-01 User=Administrator Pid=8772 CPUs=12
+\t (00:00:02) CmdLine= d:\bzz\tools\cd_04062016_0702\tools\bin\allegro.exe D:\BZZ\Work\CAD\上传\板子图及Footprint\dralib\ADC_pinout.dra
+\t (00:00:02) 
+   (00:00:02) Loading axlcore.cxt 
+\t (00:00:05) Opening existing design...
+\i (00:00:05) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged ADC_pinout
+\d (00:00:05) Design opened: D:/BZZ/Work/CAD/上传/板子图及Footprint/dralib/ADC_pinout.dra
+\i (00:00:05) trapsize 27
+\i (00:00:05) trapsize 28
+\i (00:00:05) trapsize 27
+\i (00:00:05) trapsize 27
+\i (00:00:05) generaledit 
+\i (00:01:16) add line 
+\i (00:01:56) setwindow form.mini
+\i (00:01:56) FORM mini subclass SILKSCREEN_TOP 
+\i (01:43:18) setwindow pcb
+\i (01:43:18) exit 
+\t (01:43:19)     Journal end - Fri Jul 01 19:38:16 2022

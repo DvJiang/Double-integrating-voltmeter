@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : sot89_tab.dra                                 )
+(    Software Version : 16.6S021                                      )
+(    Date/Time        : Tue Apr 19 16:09:25 2016                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: SHAPE
+    Directory = G:/_prj_ZS1R5_0505/schematic/allegro/zs1r5_footprint_lib
+    Name      = sot89_tab.ssm
+    User      = yfzhangp
+    Machine   = THNKPAD_W520
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+
