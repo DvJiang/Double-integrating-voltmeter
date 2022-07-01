@@ -1,0 +1,15 @@
+{ Using PSTWRITER 17.2.0 d001Jun-27-2022 at 11:58:05 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U3.9" ignored for U3: SCHEMATIC1, PAGE1 (205.74, 66.04). Connecting pin to net "STOP/RUN".
+#2 WARNING(ORCAP-36006): Part Name "PIC16C57_SOP65P785X198-28N_PIC16C57" is renamed to "PIC16C57_SOP65P785X198-28N_PIC1".
+#3 WARNING(ORCAP-36006): Part Name "CD4052B/SO_SOIC127P600X175-16N_CD4052B" is renamed to "CD4052B/SO_SOIC127P600X175-16N_".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... D:\BZZ\WORK\CAD\WORK\PROJECT2\SCHEMATIC\allegro/pstchip.dat
+
+Loading... D:\BZZ\WORK\CAD\WORK\PROJECT2\SCHEMATIC\allegro/pstchip.dat
+
+Loading... D:\BZZ\WORK\CAD\WORK\PROJECT2\SCHEMATIC\allegro/pstchip.dat
+
+Loading... D:\BZZ\WORK\CAD\WORK\PROJECT2\SCHEMATIC\allegro/pstxnet.dat
+packaging the design view...

@@ -1,0 +1,407 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 17.2.0 d001Jun-27-2022 at 11:47:21 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='VOLTMATER';
+ POST_TIME='Oct 29 2018 20:45:38';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'C_ZS_C0603_4.7UF':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS10959082@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins10959082@analog.\c.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins10959082@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'C_ZS_C0603_4.7UF':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS10959283@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins10959283@analog.\c.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins10959283@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'C_ZS_C0603_1UF':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS10956917@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins10956917@analog.\c.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins10956917@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'C_ZS_C0603_100N/100V':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS10956299@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins10956299@analog.\c.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins10956299@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'C_ZS_C0603_22P':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS10973573@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins10973573@analog.\c.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins10973573@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'C_ZS_C0603_22P':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS10973593@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins10973593@analog.\c.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins10973593@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'C_ZS_C0603_100N':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS10956726@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins10956726@analog.\c.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins10956726@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'C_ZS_C0603_100N':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS12685623@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins12685623@analog.\c.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins12685623@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'C_ZS_C0603_100N':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS12685757@ANALOG.C.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins12685757@analog.\c.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins12685757@analog.\c.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'D1N4148_ZS_C0603_1N4148':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS10959131@DIODE.D1N4148.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins10959131@diode.\d1n4148.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins10959131@diode.\d1n4148.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'D1N4148_ZS_C0603_1N4148':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS10959113@DIODE.D1N4148.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins10959113@diode.\d1n4148.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins10959113@diode.\d1n4148.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ DS1 'LG5641AH_DS1_LG5641AH':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS10429068@HB8145.LG5641AH.NORMAL(SCH_1)':
+ C_PATH='@voltmater.schematic1(sch_1):ins10429068@hb8145.\lg5641ah.normal\(sch_1)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins10429068@hb8145.\lg5641ah.normal\(sch_1)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'INPUT_J1_POW_AND_VIN':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS12685647@HB8145.INPUT.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins12685647@hb8145.\input.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins12685647@hb8145.\input.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_ZS_R1206_1K':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS10956822@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins10956822@analog.\r.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins10956822@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'POT_U1_100':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS10956994@DISCRETE.POT.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins10956994@discrete.\pot.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins10956994@discrete.\pot.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_ZS_R1206_5.1K':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS10957255@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins10957255@analog.\r.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins10957255@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_ZS_R1206_2.7K':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS10957110@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins10957110@analog.\r.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins10957110@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_ZS_R1206_30K':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS10957726@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins10957726@analog.\r.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins10957726@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_ZS_R1206_300':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS10957229@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins10957229@analog.\r.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins10957229@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_ZS_R1206_300':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS10957292@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins10957292@analog.\r.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins10957292@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_ZS_R1206_10K':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS12685603@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins12685603@analog.\r.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins12685603@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_ZS_R1206_100K':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS12685707@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins12685707@analog.\r.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins12685707@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_ZS_R1206_0OHM':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS12685671@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins12685671@analog.\r.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins12685671@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_ZS_R1206_10K':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS12684498@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins12684498@analog.\r.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins12684498@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_ZS_R1206_220':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS10980531@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins10980531@analog.\r.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins10980531@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'R_ZS_R1206_11K':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS12685741@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins12685741@analog.\r.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins12685741@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_ZS_R1206_220':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS10980577@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins10980577@analog.\r.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins10980577@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_ZS_R1206_220':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS10980627@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins10980627@analog.\r.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins10980627@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_ZS_R1206_220':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS10980677@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins10980677@analog.\r.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins10980677@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_ZS_R1206_220':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS10980727@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins10980727@analog.\r.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins10980727@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_ZS_R1206_220':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS10980777@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins10980777@analog.\r.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins10980777@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_ZS_R1206_220':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS10980827@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins10980827@analog.\r.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins10980827@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_ZS_R1206_220':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS10980877@ANALOG.R.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins10980877@analog.\r.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins10980877@analog.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ S1 'SW_PUSHBUTTON_TH':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS12684391@SWITCH.SWITCH PUSHBUTTON TH.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins12684391@switch.\switch pushbutton th.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins12684391@switch.\switch pushbutton th.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'TL431_U1_TL431':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS10956788@REGULATOR.TL431.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins10956788@regulator.\tl431.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins10956788@regulator.\tl431.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'TL062_SOIC127P599X175-8N_TL062':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS349@VOLTMATER.TL062.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins349@voltmater.\tl062.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins349@voltmater.\tl062.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='A';
+
+SECTION_NUMBER 2
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS323@VOLTMATER.TL062.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins323@voltmater.\tl062.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins323@voltmater.\tl062.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='B';
+
+PART_NAME
+ U3 'PIC16C57_SOP65P785X198-28N_PIC1':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS10967838@HB8145.PIC16C57.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins10967838@hb8145.\pic16c57.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins10967838@hb8145.\pic16c57.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'CD4052B/SO_SOIC127P600X175-16N_':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS10957390@HB8145.CD4052B/SO.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins10957390@hb8145.\cd4052b/so.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins10957390@hb8145.\cd4052b/so.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'XTAL16M_ZS_C0603_16MHZ':;
+
+SECTION_NUMBER 1
+ '@VOLTMATER.SCHEMATIC1(SCH_1):INS10973527@HB8145.XTAL16M.NORMAL(CHIPS)':
+ C_PATH='@voltmater.schematic1(sch_1):ins10973527@hb8145.\xtal16m.normal\(chips)',
+ P_PATH='@voltmater.schematic1(sch_1):page1_ins10973527@hb8145.\xtal16m.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.
